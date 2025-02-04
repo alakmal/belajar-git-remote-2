@@ -1,1 +1,2 @@
 baris pertama file1 feature/1
+baris pertama file2 feature/a

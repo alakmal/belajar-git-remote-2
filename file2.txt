@@ -1,2 +1,3 @@
 file2 baris pertama feature/2
 file2 baris kedua feature/a
+file2 baris ketiga feature/d

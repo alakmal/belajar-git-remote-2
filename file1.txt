@@ -1,6 +1,3 @@
 baris pertama file1 feature/1
-<<<<<<< HEAD
 baris kedua  file1 feature/a
-=======
-baris kedua file1 feature/b
->>>>>>> feature/b
+baris ketiga file1 feature/d

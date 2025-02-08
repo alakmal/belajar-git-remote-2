@@ -1,3 +1,4 @@
 file2 baris pertama feature/2
 file2 baris kedua feature/a
 file2 baris ketiga feature/rebase
+file2 baris keempat feature/merge-squash

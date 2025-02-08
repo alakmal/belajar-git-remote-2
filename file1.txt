@@ -2,3 +2,4 @@ baris pertama file1 feature/1
 baris kedua file1 feature/b
 baris ketiga file1 main
 baris keempat file1 main
+baris kelima file1 feature/merge-squash

@@ -3,3 +3,4 @@ baris kedua file1 feature/b
 baris ketiga file1 main
 baris keempat file1 main
 baris kelima file1 feature/merge-squash
+perubahan file1.txt untuk fetch
